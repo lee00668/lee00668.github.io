@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+ }
+ /* 
+
+*/
+body {
+    font-size: 18px;
+  }
+
+  h1, 
+  h2,
+  h3 {
+    background-color: lightblue; 
+  }
+
+  footer {
+    background-color: lightblue;
+}
+
+.site-title{
+  color: orange;
+}
+
+#my-image{
+  box-shadow: 0px 0px 2px 1px black;
+}
+
+ul{
+  list-style: square;
+}
+
+nav li:nth-child(n) {
+  background: red;
+}
+
+ul li a{
+  text-decoration: none;
+}
+
+ul li a, 
+ul li a:link
+ul li a:visited{
+    background: orange;
+    border: 2px solid black;
+}
+
+ul li a:hover{
+  background-color: cyan;
+}
