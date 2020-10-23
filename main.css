@@ -1,0 +1,29 @@
+header{
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    color: yellow;
+    background-image: url("11h7ggbC9TP1F8YVmEI6igPnkrzgnrT9Qsyrf53KMNg.jpg");
+    background-position: 10%
+  }
+
+  article>p {
+    font-size: 40px;
+}
+  
+nav ul a{
+    color: yellow;
+    text-decoration: underline;
+}
+    
+div {
+      width: 300px;
+      border: 10px solid yellow;
+      padding: 40px;
+      margin: 10px;
+    }
+
+
+  
+
+ 
